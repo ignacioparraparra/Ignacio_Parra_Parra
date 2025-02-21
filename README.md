@@ -7,7 +7,7 @@ Current BS Computer Science student and veteran of the United States Army with a
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-
+| nullptr         | <a href="https://github.com/ignacioparraparra/Project-1/tree/main">Project 1</a>|
 ## Certifications
 | Title                                         | Provider                   |
 |-----------------------------------------------|----------------------------|
@@ -15,7 +15,7 @@ Current BS Computer Science student and veteran of the United States Army with a
 | Intro To Splunk                               | <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />                     |
 
 ## Projects
-- Home Lab Server: _VMs, ProxMox, Kali Linux, BASH_
+- <a href="https://github.com/ignacioparraparra/Project-1/tree/main">Project 1</a>: _VMs, ProxMox, Kali Linux, BASH_
 
 Disassembled and upgraded an enterprise workstation into a custom server, integrating additional
 hardware to enhance performance and deploying multiple VMs natively for personal and
