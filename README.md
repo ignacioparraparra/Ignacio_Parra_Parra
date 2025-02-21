@@ -2,7 +2,8 @@
 <a href="https://www.linkedin.com/in/ignacio-parra-parra"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
-Current BS Computer Science student and veteran of the United States Army with a passion for cybersecurity, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Current BS Computer Science student and veteran of the United States Army with a passion for cybersecurity, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. Through the use of this portfolio I will be displaying
+my progress traversing blue and red team skills to become a proactive defender.
 
 ## Skills
 | Skill                                         | Associated Project         |
