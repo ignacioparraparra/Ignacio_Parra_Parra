@@ -1,5 +1,5 @@
 # Hello, Ignacio Parra Parra
-<a href="www.linkedin.com/in/ignacio-parra-parra-8507b1214"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/ignacio-parra-parra"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Current BS Computer Science student and veteran of the United States Army with a passion for cybersecurity, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
