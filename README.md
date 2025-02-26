@@ -8,7 +8,7 @@ my progress traversing blue and red team skills to become a proactive defender.
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| nullptr         | <a href="https://github.com/ignacioparraparra/Project-1/tree/main">Project 1</a>|
+| Python scripting w/ netcat        | <a href="https://github.com/ignacioparraparra/Python_CLIBackdoor">Python_backdoor</a>|
 ## Certifications
 | Title                                         | Provider                   |
 |-----------------------------------------------|----------------------------|
@@ -16,8 +16,13 @@ my progress traversing blue and red team skills to become a proactive defender.
 | Intro To Splunk                               | <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />                     |
 
 ## Projects
+- <a href="https://github.com/ignacioparraparra/Python_CLIBackdoor">Python_backdoor</a>: _BASH, Netcat, Python_
+
+Creating persistant backdoor utilizing python3 and netcat
+
 - <a href="https://github.com/ignacioparraparra/Project-1/tree/main">Project 1</a>: _VMs, ProxMox, Kali Linux, BASH_
 
 Disassembled and upgraded an enterprise workstation into a custom server, integrating additional
 hardware to enhance performance and deploying multiple VMs natively for personal and
 experimental projects.
+
