@@ -8,8 +8,8 @@ my progress traversing blue and red team skills to become a proactive defender.
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| FTP Server Configuration          | <a href="https://github.com/ignacioparraparra/FTP_config">FTP Server Configured with SSL</a>          
-| Python scripting w/ netcat        | <a href="https://github.com/ignacioparraparra/Python_CLIBackdoor">Python_backdoor</a>|
+| vsftpd, FTPS, openSSL, Ubuntu Server         | <a href="https://github.com/ignacioparraparra/FTP_config">FTP Server Configured with SSL</a>          
+| Python scripting, netcat, BASH        | <a href="https://github.com/ignacioparraparra/Python_CLIBackdoor">Python_backdoor</a>|
 ## Certifications
 | Title                                         | Provider                   |
 |-----------------------------------------------|----------------------------|
