@@ -8,6 +8,7 @@ my progress traversing blue and red team skills to become a proactive defender.
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| FTP Server Configuration          | <a href="https://github.com/ignacioparraparra/FTP_config">FTP Server Configured with SSL</a>          
 | Python scripting w/ netcat        | <a href="https://github.com/ignacioparraparra/Python_CLIBackdoor">Python_backdoor</a>|
 ## Certifications
 | Title                                         | Provider                   |
@@ -16,7 +17,11 @@ my progress traversing blue and red team skills to become a proactive defender.
 | Intro To Splunk                               | <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />                     |
 
 ## Projects
-- <a href="https://github.com/ignacioparraparra/Python_CLIBackdoor">Python_backdoor</a>: _BASH, Netcat, Python_
+- <a href="https://github.com/ignacioparraparra/FTP_config">FTP Server Configured with SSL</a>: _BASH, FTP, SSL, Cryptography, Filezilla, FTPS, Ubuntu Server_
+
+Creating Ubuntu server VM to act as FTP, then using SSL to configure it for FTPS
+
+- <a href="https://github.com/ignacioparraparra/Python_CLIBackdoor">Python Backdoor</a>: _BASH, Netcat, Python_
 
 Creating persistant backdoor utilizing python3 and netcat
 
