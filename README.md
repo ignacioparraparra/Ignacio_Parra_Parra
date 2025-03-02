@@ -13,7 +13,7 @@ my progress traversing blue and red team skills to become a proactive defender.
 ## Certifications
 | Title                                         | Provider                   |
 |-----------------------------------------------|----------------------------|
-| Google Foundations of Cybersecurity           | <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />            
+| Google Cybersecurity Professional Certificate           | <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />            
 | Intro To Splunk                               | <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />                     |
 
 ## Projects
