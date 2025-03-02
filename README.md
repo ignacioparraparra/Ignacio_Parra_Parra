@@ -17,7 +17,7 @@ my progress traversing blue and red team skills to become a proactive defender.
 | Intro To Splunk                               | <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />                     |
 
 ## Projects
-- <a href="https://github.com/ignacioparraparra/FTP_config">FTP Server Configured with SSL</a>: _BASH, FTP, SSL, Cryptography, Filezilla, FTPS, Ubuntu Server_
+- <a href="https://github.com/ignacioparraparra/FTP_config">FTP Server Configured with SSL</a>: _BASH, FTP, SSL, vsftpd, Filezilla, FTPS, Ubuntu Server_
 
 Creating Ubuntu server VM to act as FTP, then using SSL to configure it for FTPS
 
