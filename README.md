@@ -31,3 +31,8 @@ Disassembled and upgraded an enterprise workstation into a custom server, integr
 hardware to enhance performance and deploying multiple VMs natively for personal and
 experimental projects.
 
+## Competitions
+
+- <a href="https://github.com/ignacioparraparra/NCAE_Competition">NCAE Cyber Games</a>: _VMs, ProxMox, Kali Linux, BASH, vsFTPd, Firewalld_
+
+Secured 2nd place at Southwest Regionals representing UNLV Rebel Intelligence (Spring ’25) by creating, configuring, and maintaining an FTP/SHELL server under active Red Team attacks, while also solving and cracking CTF challenges.
