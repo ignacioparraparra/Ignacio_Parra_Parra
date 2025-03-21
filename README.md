@@ -33,6 +33,6 @@ experimental projects.
 
 ## Competitions
 
-- <a href="https://github.com/ignacioparraparra/NCAE_Competition">NCAE Cyber Games</a>: _VMs, ProxMox, Kali Linux, BASH, vsFTPd, Firewalld_
+- <a href="https://github.com/ignacioparraparra/NCAE_Competition">NCAE Cyber Games</a>: _Rocky8, ProxMox, Kali Linux, BASH, vsFTPd, Firewalld_
 
 Secured 2nd place at Southwest Regionals representing UNLV Rebel Intelligence (Spring ’25) by creating, configuring, and maintaining an FTP/SHELL server under active Red Team attacks, while also solving and cracking CTF challenges.
